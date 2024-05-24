@@ -6,7 +6,8 @@
 ![image](https://github.com/ddakgi00/FossilCapstone/assets/62549045/846d73c7-f4d9-4714-a4df-528389fc0931)
 
 4. SSH 연결 버튼 눌러서 VM 인스턴스 ubuntu 환경 접속
-![제목 없음](https://github.com/ddakgi00/FossilCapstone/assets/62549045/f1c07cc4-5690-47f8-8a84-72f40add62f8)
+![KakaoTalk_20240525_083518794](https://github.com/ddakgi00/FossilCapstone/assets/62549045/25435b61-b56e-44f4-a29e-32ef618698cd)
+
 
 
 
